@@ -100,6 +100,17 @@
     <string name="intro6Description">Cette application est gratuite, sans pub, et son code est ouvert. Plus de détails en appuyant sur \"À propos\" depuis l\'écran principal.\n\nMerci de laisser un commentaire sur le Play Store (:</string>
 
     <string name="change">Modifier</string>
+	<string name="storeTextColorTitle">Couleur du titre</string>
+    <string name="storeTextBackgroundColorTitle">Couleur de fond titre</string>
+    <string name="storeNameBackgroundColorDescription">Couleur de fond texte</string>
+    <string name="storeNameColorDescription">Couleur du texte</string>
+	
     <string name="settings">Paramètres</string>
     <string name="settings_category_title_ui">Interface</string>
-    </resources>
+	<string name="settings_card_title_list_font_size">Taille de police des titres (Vue liste)</string>
+    <string name="settings_card_note_list_font_size">Taille de police des notes (Vue liste)</string>
+    <string name="settings_card_title_font_size">Taille de police des titres (Vue détail)</string>
+    <string name="settings_card_id_font_size">Taille de police du numéros (Vue détail)</string>
+    <string name="settings_card_note_font_size">Taille de police des notes (Vue détail)</string>
+    <string name="settings_display_barcode_max_brightness">Luminosité maximal lors de l'affichage du code barre</string>
+</resources>
